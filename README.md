@@ -1,4 +1,9 @@
-### Hi there 👋
+### My little slice of ~~hell~~ heaven
+
+Hi! I'm a university student from Portugal, always down to learn something new
+and then some more. I enjoy coding as much as I have motivation on a daily basis.
+
+> "Just because something isn't wrong doesn't mean it's right."
 
 <!--
 **DQTree/DQTree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
