@@ -5,6 +5,8 @@ and then some more. I enjoy coding as much as I have motivation on a daily basis
 
 > "Just because something isn't wrong doesn't mean it's right."
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dqtree&layout=compact)
+
 <!--
 **DQTree/DQTree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
